@@ -19,8 +19,8 @@ Computer Science graduate building efficient systems from scratch — from backe
 
 ## Currently Building
 
-- 📚 Programmer Knowledge Base — a structured computer science reference system
 - 🧠 TinyLang — a programming language interpreter in Python
+- 📚 Programmer Knowledge Base — a structured computer science reference system
 - 🎮 Modular Side Scroller — HTML5 Canvas game architecture
 - 📱 TimeMinder — a React Native + TypeScript mobile app for tracking and storing meaningful date countdowns
 
