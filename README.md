@@ -21,7 +21,7 @@ Computer Science graduate building efficient systems from scratch — from backe
 
 - 🧠 TinyLang — a programming language interpreter in Python
 - 📚 Programmer Knowledge Base — a structured computer science reference system
-- 📱 TimeMinder — a React Native + TypeScript mobile app for tracking and storing meaningful date countdowns
+- 📱 TimeMinder — a React Native + TypeScript mobile app for tracking and storing meaningful dates
 - 🎮 Modular Side Scroller — HTML5 Canvas game architecture
 
 
