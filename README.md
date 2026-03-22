@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Computer Science graduate building efficient systems from scratch — from backend services to interactive applications.
 
+🌐 Portfolio: [https://lizziejperez.github.io/](https://lizziejperez.github.io/)
+
 ## Currently Building
 
 - 🧠 TinyLang — a programming language interpreter in Python
