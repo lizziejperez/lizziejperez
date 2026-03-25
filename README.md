@@ -1,18 +1,3 @@
-<!--
-**lizziejperez/lizziejperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Lizzie 👋
 
 Computer Science graduate building efficient systems from scratch — from backend services to interactive applications.
@@ -40,7 +25,7 @@ Computer Science graduate building efficient systems from scratch — from backe
 **Game Dev:** Unity | 
 **Tools:** Git, VS Code
 
-### 💼 Need help with your game or code?
+## 💼 Need help with your game or code?
 
 I help fix bugs, build features, and explain systems in Unity (C#) and JavaScript — especially for beginner-friendly projects.
 
