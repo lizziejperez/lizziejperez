@@ -26,7 +26,6 @@ Computer Science graduate building efficient systems from scratch — from backe
 - 📱 TimeMinder — a React Native + TypeScript mobile app for tracking and storing meaningful dates
 - 🎮 Modular Side Scroller — HTML5 Canvas game architecture
 
-
 ## Core Interests
 
 - Backend Engineering
@@ -40,3 +39,9 @@ Computer Science graduate building efficient systems from scratch — from backe
 **Frontend:** HTML, CSS | 
 **Game Dev:** Unity | 
 **Tools:** Git, VS Code
+
+### 💼 Need help with your game or code?
+
+I help fix bugs, build features, and explain systems in Unity (C#) and JavaScript — especially for beginner-friendly projects.
+
+Work with me on Fiverr: [https://www.fiverr.com/lizziejperez](https://www.fiverr.com/lizziejperez)
