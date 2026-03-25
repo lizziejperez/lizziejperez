@@ -25,7 +25,7 @@ Computer Science graduate building efficient systems from scratch — from backe
 **Game Dev:** Unity | 
 **Tools:** Git, VS Code
 
-## 💼 Need help with your game or code?
+### 💼 Need help with your game or code?
 
 I help fix bugs, build features, and explain systems in Unity (C#) and JavaScript — especially for beginner-friendly projects.
 
