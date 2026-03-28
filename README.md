@@ -20,7 +20,7 @@ Computer Science graduate building efficient systems from scratch — from backe
 
 ## Tech Stack
 
-**Languages:** C, Java, Python, JavaScript | 
+**Languages:** C, Java, Python, JavaScript, C# | 
 **Frontend:** HTML, CSS | 
 **Game Dev:** Unity | 
 **Tools:** Git, VS Code
