@@ -6,10 +6,10 @@ Computer Science graduate building efficient systems from scratch — from backe
 
 ## Currently Building
 
+- 🎮 Adventure Toolkit — reusable Unity systems for building 2D games (movement, menus, scene flow)
 - 🧠 TinyLang — a programming language interpreter in Python
 - 📚 Programmer Knowledge Base — a structured computer science reference system
 - 📱 TimeMinder — a React Native + TypeScript mobile app for tracking and storing meaningful dates
-- 🎮 Modular Side Scroller — HTML5 Canvas game architecture
 
 ## Core Interests
 
